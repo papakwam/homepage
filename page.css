@@ -1,0 +1,49 @@
+.header{
+    width: 50%;
+    font-size: 24px;
+
+}
+
+.head{
+    width: 944px;
+    margin-top: 81px;
+}
+
+
+.para1 {
+    margin: 0 0 10px;
+    letter-spacing: 5px;
+}
+
+
+footer{
+    background-color: indigo;
+    margin-left: 0px;
+    margin-right: 0px
+}
+
+.para2{
+    color: white;
+}
+
+h5{
+    color: yellowgreen;
+}
+
+.para3{
+    color: orange;
+}
+
+jp {
+    width: 944px;
+}
+
+.thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+    height: 188px;
+}
+
+.outer {
+    height: 472px;
+}
